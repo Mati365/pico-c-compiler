@@ -13,7 +13,7 @@
   },
   "devDependencies": {
     "@ts-cc/compiler": "*",
-    "express": "^4.19.2",
+    "express": "^4.20.0",
     "styled-components": "^6.1.8"
   },
   "bin": {

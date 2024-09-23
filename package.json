@@ -72,7 +72,7 @@
     "react-dom": "^18.2.0",
     "reflect-metadata": "^0.2.1",
     "remove": "^0.1.5",
-    "rollup": "^4.9.5",
+    "rollup": "^4.22.4",
     "rollup-plugin-typescript2": "^0.36.0",
     "rxjs": "^7.8.0",
     "source-map-loader": "^5.0.0",

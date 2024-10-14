@@ -23,7 +23,7 @@
     "@types/react-dom": "^18.2.19",
     "@uiw/react-codemirror": "4.21.21",
     "@under-control/forms": "^2.0.0",
-    "astro": "^4.3.5",
+    "astro": "^4.16.1",
     "clsx": "^2.1.0",
     "constate": "^3.3.2",
     "flowbite": "^2.2.1",
